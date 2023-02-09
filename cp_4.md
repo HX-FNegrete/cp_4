@@ -1,5 +1,5 @@
 <h1>Bootcamp Módulo 4</h1>
-<p><img alt="henry" src="images/henry.jpeg" /> </p>
+<p><img alt="henry" src="henry.jpeg" /> </p>
 <h2>Elegir la opción correspondiente</h2>
 <p>1) La <code>tolerancia a particiones</code> es un concepto relacionado con: </p>
 <p>Opciones: </p>

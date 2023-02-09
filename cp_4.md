@@ -1,10 +1,10 @@
 <h1>Bootcamp Módulo 4</h1>
 <p><img alt="henry" src="henry.jpeg" /> </p>
 <h2>Elegir la opción correspondiente</h2>
-<p>1) La <code>tolerancia a particiones</code> es un concepto relacionado con: </p>
+<p> 1) La <code>tolerancia a particiones</code> es un concepto relacionado con: </p>
 <p>Opciones: </p>
-<p>a- Las particiones lógicas en los discos duros del cluster
-b- Que se puedan utilizar particiones en lugar de índices para las tablas
+<p>a- Las particiones lógicas en los discos duros del cluster 
+b- Que se puedan utilizar particiones en lugar de índices para las tablas 
 c- Que el sistema disponibiliza información aún habiendo tenido fallas de red
 d- Que el sistema pueda gestionar particiones lógicas en los discos duros
 e- Que la administracion del sistema esté particionada </p>
